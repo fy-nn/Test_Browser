@@ -12,3 +12,6 @@ print(TestVarNeu2)
 
 TestVarNeu4 = 275
 print(TestVarNeu2)
+
+TestVarNeu5 = 350
+print(TestVarNeu2)
