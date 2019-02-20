@@ -6,3 +6,6 @@ print(TestVarNeu)
 
 TestVarNeu2 = 150
 print(TestVarNeu2)
+
+TestVarNeu3 = 250
+print(TestVarNeu2)
